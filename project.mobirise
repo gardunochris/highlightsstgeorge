@@ -111,7 +111,7 @@
     "cssOptimize": false,
     "lazyLoad": false,
     "pwa-switcher": false,
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "PWA": {
       "enabled": false
     }
