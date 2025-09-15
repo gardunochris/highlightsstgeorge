@@ -94,7 +94,7 @@
     ],
     "favicon": false,
     "noImageResize": "",
-    "google-analytics": "",
+    "google-analytics": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-D1HEBV5CD2\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-D1HEBV5CD2');\n</script>",
     "siteUrl": false,
     "uniqCompNum": 51,
     "versionPublish": "6.1.4",
@@ -106,12 +106,15 @@
     "cookiesAlert": false,
     "gdpr": false,
     "chatbutton": {},
-    "mbrsiteDomain": "highlightsstg",
+    "mbrsiteDomain": "zewrnxpgxc",
     "usedWebp": false,
     "cssOptimize": false,
     "lazyLoad": false,
     "pwa-switcher": false,
-    "publishChangesOnly": true
+    "publishChangesOnly": true,
+    "PWA": {
+      "enabled": false
+    }
   },
   "pages": {
     "index.html": {
