@@ -1171,7 +1171,7 @@ section.lazy-placeholder:after {
   color: #484444;
 }
 .cid-uWPwM3h4vz {
-  background: #232323;
+  background: #ffffff;
   padding-top: 60px;
   padding-bottom: 60px;
 }
@@ -1743,7 +1743,6 @@ section.lazy-placeholder:after {
 }
 .cid-uWPBdwHxr0 .testimonials-container .testimonials-item .user .testimonials-caption {
   padding: 2rem;
-  padding: 2rem 2rem 2rem 0;
 }
 @media (max-width: 260px) {
   .cid-uWPBdwHxr0 .user_image {
@@ -1751,10 +1750,10 @@ section.lazy-placeholder:after {
     height: auto !important;
   }
 }
-@media (max-width: 767px) {
-  .cid-uWPBdwHxr0 .testimonials-caption {
-    padding: 0 2rem 2rem 2rem !important;
-  }
+.cid-uWQ1OnC8jq {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
 }
 .cid-rKtzgfcHNf {
   padding-top: 45px;
