@@ -95,18 +95,18 @@
     "favicon": false,
     "noImageResize": "",
     "google-analytics": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-D1HEBV5CD2\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-D1HEBV5CD2');\n</script>",
-    "siteUrl": false,
+    "siteUrl": "https://highlightsstgeorge.com",
     "uniqCompNum": 57,
     "versionPublish": "6.1.4",
     "screenshot": "screenshot.png",
     "imageResize": true,
-    "robotsSwitcher": false,
-    "sitemapSwitcher": false,
+    "robotsSwitcher": true,
+    "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
     "cookiesAlert": false,
     "gdpr": false,
     "chatbutton": {},
-    "mbrsiteDomain": "ytklcjqjiw",
+    "mbrsiteDomain": "wo62rfumps",
     "usedWebp": false,
     "cssOptimize": false,
     "lazyLoad": false,
@@ -115,7 +115,7 @@
     "PWA": {
       "enabled": false
     },
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
   },
   "pages": {
     "index.html": {
